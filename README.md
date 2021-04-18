@@ -16,3 +16,5 @@ It also includes CSS techniques such as: links, hover, float and responsiviness.
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ## Check out the Web Page:
+
+https://juniormacedo91.github.io/landing-page/
